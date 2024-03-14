@@ -1,3 +1,4 @@
 x = 10
 y = 2
-print(x*y)
+z = 5
+print(x * y * z)
